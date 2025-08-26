@@ -1,10 +1,9 @@
-# Nostra-Project
 # Nostra – E-commerce Website  
 
 Nostra is a simple, responsive **E-commerce Website** built with **HTML, CSS, and JavaScript**.  
 The project showcases a modern online store design with product collections, search functionality, and filtering features.  
 
-🔗 **Live Demo:** [Nostra Website](https://errormakesclever.github.io/Nostra-Ecommerce-Js/index.html)
+🔗 **Live Demo:** [Nostra Website](https://dharshiniyay.github.io/Nostra-Project/collection.html)
 
 ---
 
